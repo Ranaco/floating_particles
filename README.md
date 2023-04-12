@@ -9,7 +9,7 @@
 
 ### Logic
 
-The only maths topic you need to know this for is Euclidedian Distance Formula that is ::
+The only maths topic you need to know this for is Eucledian Distance Formula that is ::
 
 ```arduino
 var distance = sqrt(pow(x1 - x2, 2) + pow(y2 - y1, 2))
